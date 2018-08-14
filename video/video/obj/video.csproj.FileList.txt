@@ -1,0 +1,9 @@
+bin\Debug\video.exe
+bin\Debug\video.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\video.DeviceSelector.resources
+obj\Debug\video.MainForm.resources
+obj\Debug\video.Properties.Resources.resources
+obj\Debug\video.csproj.GenerateResource.Cache
+obj\Debug\video.exe
+obj\Debug\video.pdb

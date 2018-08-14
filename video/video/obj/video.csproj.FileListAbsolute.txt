@@ -1,0 +1,18 @@
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\obj\Debug\video.DeviceSelector.resources
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\obj\Debug\video.MainForm.resources
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\obj\Debug\video.Properties.Resources.resources
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\obj\Debug\video.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\bin\Debug\video.exe
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\bin\Debug\video.pdb
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\obj\Debug\video.exe
+C:\Documents and Settings\Hari\My Documents\harivinod\video\video\obj\Debug\video.pdb
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\bin\Debug\video.exe
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\bin\Debug\video.pdb
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\obj\Debug\video.DeviceSelector.resources
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\obj\Debug\video.MainForm.resources
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\obj\Debug\video.Properties.Resources.resources
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\obj\Debug\video.csproj.GenerateResource.Cache
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\obj\Debug\video.exe
+C:\Documents and Settings\Hari\Desktop\nnpr\nnpr\video\video\obj\Debug\video.pdb
